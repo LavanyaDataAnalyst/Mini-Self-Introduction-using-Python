@@ -28,6 +28,8 @@
 * Jupyter Notebook / VS Code – Development environment
 
 ## 💡 Sample Output
+
+```
 ---------- My Intro ----------
 My name is John
 I am 20 years old
@@ -36,6 +38,7 @@ I hold BSc degree
 I am currently pursuing Data Analytics
 I have developed my skills in Excel, SQL
 Now I am currently learning Python
+```
 
 ## ▶️ How to Use
 
